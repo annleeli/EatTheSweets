@@ -1,10 +1,11 @@
 # EatTheSweets
 Vertical scrolling platform game made in Turing
 
-# How to Run
+# Instructions 
+## How to Run
 Download the .exe file or the whole project and install [OpenTuring](http://tristan.hume.ca/openturing/)
 
-# How to Play
+## How to Play
 1. Use arrow keys to move the character (UP for jump)
 2. Collect the sweets that are floating on (or near) the platforms.
 3. Be careful not to fall off the screen else you start over
